@@ -1,0 +1,10 @@
+{
+  "Id": "bucket_name",    // bucket name 
+  "Status": "Enabled",
+  "Tierings": [
+    {
+      "Days": 90,
+      "AccessTier": "ARCHIVE_ACCESS"
+    }
+  ]
+}
